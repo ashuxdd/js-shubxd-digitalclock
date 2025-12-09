@@ -27,5 +27,5 @@ The clock also shows the current date and supports switching between 12-hour and
 - `script.js` – logic for updating time and controlling formats
 
 ## Author
-- Ashu  
+- Shubrant Singh Naruka  
 - BCA 3rd Semester
